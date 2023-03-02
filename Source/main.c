@@ -6,7 +6,7 @@ int main()
 {
     printf("Program Begin!\n");
 
-    //Static library;
+    //Static library
 
     int arr[] = { 2, 3, 4, 10, 40 };
 
